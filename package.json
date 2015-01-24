@@ -1,0 +1,8 @@
+{
+  "name": "kurea-contrib-friendcode",
+  "main": "index.coffee",
+  "version": "0.0.0",
+  "description": "A friendcode module for Kurea.",
+  "license": "MIT",
+  "dependencies": {}
+}
